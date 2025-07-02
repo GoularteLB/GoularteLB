@@ -18,7 +18,9 @@ I'm always looking for new challenges to grow and contribute to meaningful softw
 
 ---
 
-
+<h2 align="start">
+  Languages and Tools:
+</h2>
 
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -71,12 +73,13 @@ I'm always looking for new challenges to grow and contribute to meaningful softw
   </a>
 </div>
 
-
 ---
 
 
 
-<div align="left">
+## Connect with me
+
+<div align="center">
   <a href="https://www.instagram.com/goularte3080/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
@@ -87,9 +90,8 @@ I'm always looking for new challenges to grow and contribute to meaningful softw
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://goulartelb.github.io/link-Bio/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Link.bio&logo=linktree&label=&color=2AA89B&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-</a>
-
+    <img src="https://img.shields.io/static/v1?message=Link.bio&logo=linktree&label=&color=2AA89B&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
 </div>
 
 ---
@@ -110,5 +112,17 @@ Working with technology motivates me every day,
 and I am always looking to grow, learn new tools,  
 and take on new challenges.
 
+---
 
+## Skills Breakdown
+
+- **Programming Languages:** Java, C#, HTML, CSS  
+- **Frameworks & Libraries:** React, Vue.js  
+- **Testing:** Java (JUnit), C# (xUnit / NUnit)  
+- **Automated Testing:** Vue Test Utils + Jest, React Testing Library + Jest  
+- **Database Systems:** MySQL, PostgreSQL, SQLite, Hive  
+- **Version Control:** Git, GitHub, GitLab  
+- **Containerization:** Docker  
+- **Architecture & Principles:** Domain-Driven Design (DDD), MVVM, Hexagonal Architecture (Ports and Adapters), SOLID Principles  
+- **Agile Methodologies:** Scrumban
 
