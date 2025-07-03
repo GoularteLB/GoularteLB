@@ -1,26 +1,45 @@
-
 <h2 align="center">
   Hi 👋! I'm Lucas Goularte
   <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/br.svg" alt="Brasil" width="25" style="vertical-align:middle; margin-left:8px;" />
 </h2>
 
-
-
 <img src="images/banner.jpg" alt="Banner do projeto" width="100%" />
 
 ---
 
+### About Me
 
-🎓 I am a **final-semester student of Systems Analysis and Development** at **SENAC Tubarão**, with over **three years of experience** in the technology industry.  
-I have solid expertise in **Java** and **C#**, with strong knowledge in **.NET**, **DDD (Domain-Driven Design)**, and **TDD (Test-Driven Development)**.  
-On the front-end, I build interfaces using **React**, **Vue.js**, and **Flutter**, applying best practices to deliver high-quality user experiences.  
-I'm always looking for new challenges to grow and contribute to meaningful software solutions.
+I am a final-semester student of Systems Analysis and Development at SENAC Tubarão with over three years of experience in the technology industry.  
+I have solid expertise in Java and C#, with strong knowledge in .NET, Domain-Driven Design (DDD), and Test-Driven Development (TDD).  
+On the front-end, I build interfaces using React, Vue.js, and Flutter, applying best practices to deliver high-quality user experiences.  
+I also work as a freelancer, delivering complete and functional projects for a variety of clients.
 
 ---
 
-<h2 align="start">
-  Languages and Tools:
-</h2>
+### Key Projects
+
+- **ZH Solution ONE** – Monitoring platform for NOx sensors and catalytic efficiency systems.  
+- **Vaccine Control Platform** – Academic extension project for managing vaccination data.  
+- **Artif** – Humanized AI assistant platform for orthodontic customer service.  
+- **DAF** – System for monitoring truck status and emission control equipment.
+
+---
+
+### Skills Breakdown
+
+- **Languages:** Java, C#, HTML, CSS  
+- **Frameworks & Libraries:** React, Vue.js  
+- **Testing:** JUnit (Java), xUnit / NUnit (C#)  
+- **Automated Testing:** Vue Test Utils + Jest, React Testing Library + Jest  
+- **Databases:** MySQL, PostgreSQL, SQLite, Hive  
+- **Version Control:** Git, GitHub, GitLab  
+- **Containerization:** Docker  
+- **Architecture:** Domain-Driven Design (DDD), MVVM, Hexagonal Architecture (Ports and Adapters), SOLID Principles  
+- **Agile:** Scrumban
+
+---
+
+### Languages and Tools
 
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -75,9 +94,7 @@ I'm always looking for new challenges to grow and contribute to meaningful softw
 
 ---
 
-
-
-## Connect with me
+### Connect with Me
 
 <div align="center">
   <a href="https://www.instagram.com/goularte3080/" target="_blank">
@@ -96,33 +113,4 @@ I'm always looking for new challenges to grow and contribute to meaningful softw
 
 ---
 
-
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
-
-### 💻 About Me
-
-I am passionate about software development  
-and love turning ideas into real solutions.
-
-In addition to my academic background and experience working with technical teams,  
-I also **work as a freelancer**, delivering complete and functional projects  
-for a variety of clients.
-
-Working with technology motivates me every day,  
-and I am always looking to grow, learn new tools,  
-and take on new challenges.
-
----
-
-## Skills Breakdown
-
-- **Programming Languages:** Java, C#, HTML, CSS  
-- **Frameworks & Libraries:** React, Vue.js  
-- **Testing:** Java (JUnit), C# (xUnit / NUnit)  
-- **Automated Testing:** Vue Test Utils + Jest, React Testing Library + Jest  
-- **Database Systems:** MySQL, PostgreSQL, SQLite, Hive  
-- **Version Control:** Git, GitHub, GitLab  
-- **Containerization:** Docker  
-- **Architecture & Principles:** Domain-Driven Design (DDD), MVVM, Hexagonal Architecture (Ports and Adapters), SOLID Principles  
-- **Agile Methodologies:** Scrumban
-
