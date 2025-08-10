@@ -9,9 +9,9 @@
 
 ### About Me
 
-I am a final-semester student of Systems Analysis and Development at SENAC Tubarão with over three years of experience in the technology industry.  
-I have solid expertise in Java and C#, with strong knowledge in .NET, Domain-Driven Design (DDD), and Test-Driven Development (TDD).  
-On the front-end, I build interfaces using React, Vue.js, and Flutter, applying best practices to deliver high-quality user experiences.  
+I hold a degree in Systems Analysis and Development from SENAC Tubarão and am currently pursuing a postgraduate degree in Software Engineering and Software Architecture.
+I have over three years of experience in the technology industry, with solid expertise in Java and C#, and strong knowledge in .NET, Domain-Driven Design (DDD), and Test-Driven Development (TDD).
+On the front-end, I build interfaces using React, Vue.js, and Flutter, applying best practices to deliver high-quality user experiences.
 I also work as a freelancer, delivering complete and functional projects for a variety of clients.
 
 ---
