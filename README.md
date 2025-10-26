@@ -28,17 +28,18 @@ I also work as a freelancer, delivering complete and functional projects for a v
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
 
-### Skills Breakdown
+###  Skills Breakdown
 
-- **Languages:** Java, C#, HTML, CSS  
-- **Frameworks & Libraries:** React, Vue.js  
-- **Testing:** JUnit (Java), xUnit / NUnit (C#)  
-- **Automated Testing:** Vue Test Utils + Jest, React Testing Library + Jest  
-- **Databases:** MySQL, PostgreSQL, SQLite, Hive  
-- **Version Control:** Git, GitHub, GitLab  
-- **Containerization:** Docker  
-- **Architecture:** Domain-Driven Design (DDD), MVVM, Hexagonal Architecture (Ports and Adapters), SOLID Principles  
-- **Agile:** Scrumban
+| Category | Skills |
+|-----------|---------|
+| **Languages** | Java (Spring Boot), C# (ASP.NET), Dart (Flutter) |
+| **Frameworks & Libraries** | React, Vue.js |
+| **Testing & Automation** | JUnit, xUnit / NUnit, React Testing Library + Jest, Vue Test Utils + Jest |
+| **Databases** | MySQL, PostgreSQL, SQLite, Hive |
+| **Version Control** | Git, GitHub, GitLab |
+| **Containerization** | Docker |
+| **Architecture** | DDD, MVVM, Hexagonal (Ports & Adapters), SOLID |
+| **Agile** | Scrumban, Scrum, Kanban |
 
 ---
 
