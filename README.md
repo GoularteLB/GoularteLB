@@ -26,6 +26,7 @@ I also work as a freelancer, delivering complete and functional projects for a v
 ---
 
 
+
 <img align="right" height="130" style="margin-left: 20px;" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
 
 
@@ -96,6 +97,26 @@ I also work as a freelancer, delivering complete and functional projects for a v
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
   </a>
 </div>
+
+---
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/camunda/camunda-docs/main/static/img/favicon.ico" width="20" /> <b>Camunda Certified Specialist</b>
+  <br>
+ 
+<div align="left">
+  <a href="https://academy.camunda.com/path/c8-lp-developer" target="_blank">
+    <img src="images/camunda.png" height="80" alt="Camunda BPMN Specialist" style="margin-right: 15px;" />
+  </a>
+  <a href="https://academy.camunda.com/path/dmn-lp" target="_blank">
+    <img src="images/dmn.png" height="80" alt="Camunda DMN Expert" />
+  </a>
+</div>
+
+<br />
+
+> **Camunda Academy Specializations:** Specialist in business process modeling (**BPMN 2.0**) and complex decision automation (**DMN**) utilizing Camunda 8.
+
 
 ---
 
