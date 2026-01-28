@@ -3,7 +3,7 @@
   <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/br.svg" alt="Brasil" width="25" style="vertical-align:middle; margin-left:8px;" />
 </h2>
 
-<img src="images/banner-png.png" alt="Banner do projeto" width="100%" />
+<img src="images/banner.jpeg" alt="Banner do projeto" width="100%" />
 
 ---
 
