@@ -138,3 +138,12 @@ I also work as a freelancer, delivering complete and functional projects for a v
 </div>
 
 ---
+
+### 
+
+<div align="center">
+  <a href="https://app.daily.dev/lucasgoularte">
+    <img src="https://api.daily.dev/devcards/v2/luQTCnFOI4iGW2l5FEfXP.png?type=wide&r=23f" width="652" alt="Lucas Goularte's Dev Card"/>
+  </a>
+</div>
+<br />
