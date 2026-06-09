@@ -79,17 +79,14 @@ I also work as a freelancer, delivering complete and functional projects for a v
   <a href="https://www.instagram.com/goularte3080/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-
-  <a href="https://www.linkedin.com/in/lucas-goularte-desenv/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-
   <a href="mailto:goulartelucasbeluco@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-
-  <a href="https://github.com/GoularteLB" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/lucas-goularte-desenv/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://goulartelb.github.io/link-Bio/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=htmx" alt="Link.bio" />
   </a>
 </div>
 
