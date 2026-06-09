@@ -50,7 +50,7 @@ I also work as a freelancer, delivering complete and functional projects for a v
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=java,spring,dotnet,cs,flutter,dart,vue,react,postgres,mysql,redis,docker,aws,git,github,vscode&perline=8)]
+![Tech Stack](https://skillicons.dev/icons?i=java,spring,dotnet,cs,flutter,dart,vue,react,postgres,mysql,redis,docker,aws,git,github,vscode&perline=8)
 
 </div>
 
