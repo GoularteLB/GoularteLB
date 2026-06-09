@@ -48,7 +48,7 @@ I also work as a freelancer, delivering complete and functional projects for a v
 ### Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,cs,dotnet,react,vue,flutter,dart,postgres,mysql,redis,docker,kafka,rabbitmq,git,github,aws&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,react,vue,flutter,dart,postgres,docker,git,aws&perline=6" />
 </div>
 
 ---
