@@ -27,7 +27,7 @@ I also work as a freelancer, delivering complete and functional projects for a v
 
 
 
-<img align="right" height="130" style="margin-left: 20px;" src="images/ProgrammingComputer.gif" />
+<img align="right" height="150" style="margin-left: 20px;" src="images/ProgrammingComputer.gif" />
 
 
 ###  Skills Breakdown
