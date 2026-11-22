@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-label="Let's build something that lasts. Thanks for stopping by.">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34D399"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <mask id="back"><path fill="#fff" d="M0 120 Q150 90 300 120 T600 120 T900 120 T1200 120 T1500 120 T1800 120 T2100 120 T2400 120 V190 H0 Z">
+      <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="11s" repeatCount="indefinite"/></path></mask>
+    <mask id="front"><path fill="#fff" d="M0 140 Q150 115 300 140 T600 140 T900 140 T1200 140 T1500 140 T1800 140 T2100 140 T2400 140 V190 H0 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="7s" repeatCount="indefinite"/></path></mask>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',Inter,'Helvetica Neue',Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,'Cascadia Code','SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace}
+    .rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+    @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+    .type{clip-path:inset(0 100% 0 0);animation:type 1.6s .4s steps(34) both}
+    .caret{animation:blink 1s steps(1) infinite}
+    @keyframes type{to{clip-path:inset(0 0 0 0)}}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.type{clip-path:none}}
+  </style>
+  <text class="mono type" x="600" y="44" font-size="20" fill="#8B9BB4" text-anchor="middle"><tspan fill="#34D399">❯</tspan> let's build something that lasts<tspan class="caret" fill="#34D399">▍</tspan></text>
+  <text class="mono rise" style="animation-delay:2s" x="600" y="74" font-size="13" fill="#64748B" text-anchor="middle" letter-spacing="1.5">THANKS FOR STOPPING BY</text>
+  <rect width="1200" height="190" fill="url(#g)" opacity=".35" mask="url(#back)"/>
+  <rect width="1200" height="190" fill="url(#g)" opacity=".85" mask="url(#front)"/>
+</svg>

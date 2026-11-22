@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" width="900" height="330" role="img" aria-label="What I'm working on now: Artif AI assistant, postgrad in software engineering and architecture, Camunda 8 orchestration, and Blueprint CSV ingestion. Open to freelance work.">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34D399"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#2563EB"/>
+    </linearGradient></defs>
+  <style>
+    .sans{font-family:'Segoe UI',Inter,'Helvetica Neue',Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,'Cascadia Code','SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace}
+    .rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+    @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+    text{font-family:ui-monospace,'Cascadia Code','SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace;font-size:15.5px}
+    .type{clip-path:inset(0 100% 0 0);animation:type 1s both}
+    .in{animation:in .45s cubic-bezier(.2,.7,.2,1) both}
+    .caret{animation:show 0s 4.6s both,blink 1s 4.6s steps(1) infinite}
+    @keyframes type{to{clip-path:inset(0 0 0 0)}}
+    @keyframes in{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}
+    @keyframes show{from{opacity:0}to{opacity:1}}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.type{clip-path:none}}
+  </style>
+  <rect x="1" y="1" width="898" height="328" rx="16" fill="#0A1628" stroke="#1E293B" stroke-width="1.5"/>
+  <path d="M1 17a16 16 0 0 1 16-16h866a16 16 0 0 1 16 16v27H1z" fill="#0D1B30"/>
+  <line x1="1" y1="44" x2="899" y2="44" stroke="#1E293B"/>
+  <circle cx="26" cy="23" r="6" fill="#F87171" opacity=".85"/><circle cx="46" cy="23" r="6" fill="#FBBF24" opacity=".85"/><circle cx="66" cy="23" r="6" fill="#34D399" opacity=".85"/>
+  <text x="450" y="28" font-size="13" fill="#64748B" text-anchor="middle" style="font-size:13px">lucas@goularte: ~/now</text>
+  <text class="type" style="animation-delay:0.3s;animation-timing-function:steps(36)" x="32" y="92"><tspan fill="#34D399">❯</tspan> <tspan fill="#F8FAFC">git log --oneline --author=lucas -4</tspan></text>
+    <text class="in" style="animation-delay:1.75s" x="32" y="123"><tspan fill="#FBBF24">a3f9c21</tspan>  <tspan fill="#A78BFA">feat(artif):</tspan> <tspan fill="#CBD5E1">humanized AI assistant for orthodontic clinics</tspan></text>
+    <text class="in" style="animation-delay:2.07s" x="32" y="154"><tspan fill="#FBBF24">7be41d0</tspan>  <tspan fill="#60A5FA">study(postgrad):</tspan> <tspan fill="#CBD5E1">software engineering &amp; architecture</tspan></text>
+    <text class="in" style="animation-delay:2.39s" x="32" y="185"><tspan fill="#FBBF24">c09e8f4</tspan>  <tspan fill="#22D3EE">feat(bpm):</tspan> <tspan fill="#CBD5E1">process orchestration with Camunda 8 · BPMN + DMN</tspan></text>
+    <text class="in" style="animation-delay:2.71s" x="32" y="216"><tspan fill="#FBBF24">e51b2aa</tspan>  <tspan fill="#34D399">perf(blueprint):</tspan> <tspan fill="#CBD5E1">ingesting 5M-row CSVs with Spring Boot + Postgres</tspan></text>
+  <text class="type" style="animation-delay:3.3s;animation-timing-function:steps(16)" x="32" y="255"><tspan fill="#34D399">❯</tspan> <tspan fill="#F8FAFC">cat status.txt</tspan></text>
+  <text class="in" style="animation-delay:4.3s" x="32" y="286"><tspan fill="#34D399">●</tspan> <tspan fill="#F8FAFC">open to freelance</tspan><tspan fill="#64748B"> · remote · pt-BR / en · usually replies within 24h</tspan><tspan class="caret" fill="#34D399" opacity="0"> ▍</tspan></text>
+</svg>

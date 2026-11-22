@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 280" width="440" height="280" role="img" aria-label="Artif: humanized AI assistant platform for orthodontic customer service. Client work.">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34D399"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="440" cy="0" r="260" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#A78BFA" stop-opacity=".12"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+    <clipPath id="clip"><rect x="1" y="1" width="438" height="278" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',Inter,'Helvetica Neue',Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,'Cascadia Code','SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace}
+    .rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+    @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+    .bar{stroke-dasharray:376;animation:bar 1.2s .3s cubic-bezier(.6,0,.2,1) both}
+    @keyframes bar{from{stroke-dashoffset:376}to{stroke-dashoffset:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.anim{display:none}}
+  </style>
+  <rect x="1" y="1" width="438" height="278" rx="18" fill="#0A1628" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="1" y="1" width="438" height="278" rx="18" fill="url(#halo)" clip-path="url(#clip)"/>
+  <line class="bar" x1="32" y1="1.5" x2="408" y2="1.5" stroke="url(#g)" stroke-width="3" stroke-linecap="round"/>
+  <g class="rise">
+    <text class="mono" x="32" y="41" font-size="12" letter-spacing="1.6" fill="#64748B"><tspan fill="#A78BFA" font-weight="700">03</tspan>  AI · HEALTHTECH</text>
+    <rect x="279" y="24" width="129" height="24" rx="12" fill="none" stroke="#1E293B"/><text class="mono" x="343.5" y="40" font-size="11" fill="#64748B" text-anchor="middle" letter-spacing=".5">CLIENT · PRIVATE</text>
+    <text class="sans" x="32" y="86" font-size="26" font-weight="700" letter-spacing="-.5" fill="#F8FAFC">Artif</text>
+    <text class="sans" x="32" y="114" font-size="15" fill="#94A3B8">Humanized AI assistant that handles</text>
+    <text class="sans" x="32" y="135" font-size="15" fill="#94A3B8">orthodontic customer service.</text>
+  </g>
+  <g transform="translate(32 158)">
+    <style>
+      .q{animation:q 8s infinite}.t{animation:t 8s infinite}.a{animation:a 8s infinite}
+      .d{animation:d .9s ease-in-out infinite}
+      @keyframes q{0%{opacity:0;transform:translateY(6px)}6%,90%{opacity:1;transform:none}100%{opacity:0}}
+      @keyframes t{0%,14%{opacity:0}18%,42%{opacity:1}46%,100%{opacity:0}}
+      @keyframes a{0%,44%{opacity:0;transform:translateY(6px)}50%,90%{opacity:1;transform:none}100%{opacity:0}}
+      @keyframes d{50%{transform:translateY(-3px)}}
+    </style>
+    <g class="q">
+      <rect x="0" y="0" width="229" height="24" rx="12" fill="#13223A"/>
+      <text class="sans" x="12" y="16" font-size="11.5" fill="#CBD5E1">Can I reschedule my appointment?</text>
+    </g>
+    <g class="t">
+      <rect x="324" y="31" width="52" height="24" rx="12" fill="#A78BFA" fill-opacity=".2"/>
+      <circle class="d" style="animation-delay:0s" cx="338" cy="43" r="3" fill="#A78BFA"/><circle class="d" style="animation-delay:0.15s" cx="350" cy="43" r="3" fill="#A78BFA"/><circle class="d" style="animation-delay:0.3s" cx="362" cy="43" r="3" fill="#A78BFA"/>
+    </g>
+    <g class="a">
+      <rect x="115" y="31" width="261" height="24" rx="12" fill="#A78BFA" fill-opacity=".22" stroke="#A78BFA" stroke-opacity=".45"/>
+      <text class="sans" x="127" y="47" font-size="11.5" fill="#F8FAFC">Of course! Does Thursday at 3pm work?</text>
+    </g>
+  </g>
+  <g class="rise" style="animation-delay:.35s">
+    <g><rect x="32" y="232" width="59" height="24" rx="12" fill="#0A1628" stroke="#1E293B"/><circle cx="47" cy="244" r="3" fill="#A78BFA"/><text class="mono" x="58" y="248.14" font-size="11.5" fill="#CBD5E1">Vue</text></g>
+    <g><rect x="99" y="232" width="59" height="24" rx="12" fill="#0A1628" stroke="#1E293B"/><circle cx="114" cy="244" r="3" fill="#A78BFA"/><text class="mono" x="125" y="248.14" font-size="11.5" fill="#CBD5E1">LLM</text></g>
+    <g><rect x="166" y="232" width="108" height="24" rx="12" fill="#0A1628" stroke="#1E293B"/><circle cx="181" cy="244" r="3" fill="#A78BFA"/><text class="mono" x="192" y="248.14" font-size="11.5" fill="#CBD5E1">Healthtech</text></g>
+  </g>
+</svg>

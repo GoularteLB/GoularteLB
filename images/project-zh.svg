@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 280" width="440" height="280" role="img" aria-label="ZH Solution ONE: monitoring platform for NOx sensors and catalytic efficiency systems. Client work.">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34D399"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="440" cy="0" r="260" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#34D399" stop-opacity=".12"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></radialGradient>
+    <clipPath id="clip"><rect x="1" y="1" width="438" height="278" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',Inter,'Helvetica Neue',Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,'Cascadia Code','SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace}
+    .rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+    @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+    .bar{stroke-dasharray:376;animation:bar 1.2s .3s cubic-bezier(.6,0,.2,1) both}
+    @keyframes bar{from{stroke-dashoffset:376}to{stroke-dashoffset:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.anim{display:none}}
+  </style>
+  <rect x="1" y="1" width="438" height="278" rx="18" fill="#0A1628" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="1" y="1" width="438" height="278" rx="18" fill="url(#halo)" clip-path="url(#clip)"/>
+  <line class="bar" x1="32" y1="1.5" x2="408" y2="1.5" stroke="url(#g)" stroke-width="3" stroke-linecap="round"/>
+  <g class="rise">
+    <text class="mono" x="32" y="41" font-size="12" letter-spacing="1.6" fill="#64748B"><tspan fill="#34D399" font-weight="700">01</tspan>  IOT · MONITORING</text>
+    <rect x="279" y="24" width="129" height="24" rx="12" fill="none" stroke="#1E293B"/><text class="mono" x="343.5" y="40" font-size="11" fill="#64748B" text-anchor="middle" letter-spacing=".5">CLIENT · PRIVATE</text>
+    <text class="sans" x="32" y="86" font-size="26" font-weight="700" letter-spacing="-.5" fill="#F8FAFC">ZH Solution ONE</text>
+    <text class="sans" x="32" y="114" font-size="15" fill="#94A3B8">Monitoring platform for NOx sensors</text>
+    <text class="sans" x="32" y="135" font-size="15" fill="#94A3B8">and catalytic efficiency systems.</text>
+  </g>
+  <g transform="translate(32 158)">
+    <style>.wave{stroke-dasharray:440;animation:wave 5s ease-in-out infinite}
+      @keyframes wave{0%{stroke-dashoffset:440}55%,85%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}</style>
+    <defs><linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#34D399" stop-opacity=".18"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></linearGradient></defs>
+    <line x1="0" y1="14" x2="376" y2="14" stroke="#13223A"/><line x1="0" y1="28" x2="376" y2="28" stroke="#13223A"/><line x1="0" y1="42" x2="376" y2="42" stroke="#13223A"/>
+    <line x1="0" y1="12" x2="376" y2="12" stroke="#F87171" stroke-opacity=".55" stroke-dasharray="4 4"/>
+    <text class="mono" x="376" y="8" font-size="9.5" fill="#F87171" fill-opacity=".8" text-anchor="end">NOx limit</text>
+    <path d="M0 38.2 L4 40.7 L8 41.3 L12 40.4 L16 38.7 L20 37.2 L24 36.7 L28 37.5 L32 39.5 L36 42 L40 44.1 L44 44.7 L48 43.4 L52 40.2 L56 35.9 L60 31.3 L64 27.7 L68 25.7 L72 25.5 L76 26.8 L80 28.8 L84 30.5 L88 31 L92 30.2 L96 28.3 L100 26.1 L104 24.6 L108 24.6 L112 26.4 L116 30 L120 34.6 L124 39 L128 42.3 L132 43.7 L136 43.3 L140 41.6 L144 39.3 L148 37.5 L152 37 L156 37.7 L160 39.5 L164 41.4 L168 42.4 L172 41.9 L176 39.5 L180 35.6 L184 31 L188 26.8 L192 24.1 L196 23.2 L200 24.2 L204 26.4 L208 29 L212 30.8 L216 31.4 L220 30.6 L224 29 L228 27.4 L232 26.8 L236 27.9 L240 22.3 L244 19.2 L248 19 L252 21.1 L256 25 L260 29.9 L264 35.5 L268 41.2 L272 38.4 L276 36.5 L280 36 L284 36.7 L288 38.2 L292 39.5 L296 39.7 L300 38.2 L304 35.1 L308 30.9 L312 26.6 L316 23.3 L320 21.8 L324 22.3 L328 24.5 L332 27.6 L336 30.5 L340 32.5 L344 33 L348 32.2 L352 30.8 L356 29.8 L360 29.9 L364 31.7 L368 35 L372 39.2 L376 43.2 L376 56 L0 56Z" fill="url(#area)"/>
+    <path class="wave" d="M0 38.2 L4 40.7 L8 41.3 L12 40.4 L16 38.7 L20 37.2 L24 36.7 L28 37.5 L32 39.5 L36 42 L40 44.1 L44 44.7 L48 43.4 L52 40.2 L56 35.9 L60 31.3 L64 27.7 L68 25.7 L72 25.5 L76 26.8 L80 28.8 L84 30.5 L88 31 L92 30.2 L96 28.3 L100 26.1 L104 24.6 L108 24.6 L112 26.4 L116 30 L120 34.6 L124 39 L128 42.3 L132 43.7 L136 43.3 L140 41.6 L144 39.3 L148 37.5 L152 37 L156 37.7 L160 39.5 L164 41.4 L168 42.4 L172 41.9 L176 39.5 L180 35.6 L184 31 L188 26.8 L192 24.1 L196 23.2 L200 24.2 L204 26.4 L208 29 L212 30.8 L216 31.4 L220 30.6 L224 29 L228 27.4 L232 26.8 L236 27.9 L240 22.3 L244 19.2 L248 19 L252 21.1 L256 25 L260 29.9 L264 35.5 L268 41.2 L272 38.4 L276 36.5 L280 36 L284 36.7 L288 38.2 L292 39.5 L296 39.7 L300 38.2 L304 35.1 L308 30.9 L312 26.6 L316 23.3 L320 21.8 L324 22.3 L328 24.5 L332 27.6 L336 30.5 L340 32.5 L344 33 L348 32.2 L352 30.8 L356 29.8 L360 29.9 L364 31.7 L368 35 L372 39.2 L376 43.2" fill="none" stroke="#34D399" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+  <g class="rise" style="animation-delay:.35s">
+    <g><rect x="32" y="232" width="59" height="24" rx="12" fill="#0A1628" stroke="#1E293B"/><circle cx="47" cy="244" r="3" fill="#34D399"/><text class="mono" x="58" y="248.14" font-size="11.5" fill="#CBD5E1">IoT</text></g>
+    <g><rect x="99" y="232" width="101" height="24" rx="12" fill="#0A1628" stroke="#1E293B"/><circle cx="114" cy="244" r="3" fill="#34D399"/><text class="mono" x="125" y="248.14" font-size="11.5" fill="#CBD5E1">Real-time</text></g>
+    <g><rect x="208" y="232" width="101" height="24" rx="12" fill="#0A1628" stroke="#1E293B"/><circle cx="223" cy="244" r="3" fill="#34D399"/><text class="mono" x="234" y="248.14" font-size="11.5" fill="#CBD5E1">Emissions</text></g>
+  </g>
+</svg>

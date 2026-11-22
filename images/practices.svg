@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 657 38" width="657" height="38" role="img" aria-label="Practices: DDD, TDD, Hexagonal, SOLID, MVVM, Scrum, Kanban">
+  <style>
+    text{font-family:ui-monospace,'Cascadia Code','SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace;font-size:15px;fill:#CBD5E1}
+    .r{animation:r .7s cubic-bezier(.2,.7,.2,1) both}
+    @keyframes r{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+    @media (prefers-reduced-motion:reduce){.r{animation:none}}
+  </style>
+  <g class="r" style="animation-delay:0.00s">
+    <rect x="1" y="1" width="67" height="36" rx="18" fill="#0A1628" stroke="#1E293B" stroke-width="1.5"/>
+    <circle cx="17" cy="19.0" r="3" fill="#34D399"/>
+    <text x="27" y="24.0">DDD</text>
+  </g>
+  <g class="r" style="animation-delay:0.08s">
+    <rect x="78" y="1" width="67" height="36" rx="18" fill="#0A1628" stroke="#1E293B" stroke-width="1.5"/>
+    <circle cx="94" cy="19.0" r="3" fill="#22D3EE"/>
+    <text x="104" y="24.0">TDD</text>
+  </g>
+  <g class="r" style="animation-delay:0.16s">
+    <rect x="155" y="1" width="121" height="36" rx="18" fill="#0A1628" stroke="#1E293B" stroke-width="1.5"/>
+    <circle cx="171" cy="19.0" r="3" fill="#60A5FA"/>
+    <text x="181" y="24.0">Hexagonal</text>
+  </g>
+  <g class="r" style="animation-delay:0.24s">
+    <rect x="286" y="1" width="85" height="36" rx="18" fill="#0A1628" stroke="#1E293B" stroke-width="1.5"/>
+    <circle cx="302" cy="19.0" r="3" fill="#34D399"/>
+    <text x="312" y="24.0">SOLID</text>
+  </g>
+  <g class="r" style="animation-delay:0.32s">
+    <rect x="381" y="1" width="76" height="36" rx="18" fill="#0A1628" stroke="#1E293B" stroke-width="1.5"/>
+    <circle cx="397" cy="19.0" r="3" fill="#22D3EE"/>
+    <text x="407" y="24.0">MVVM</text>
+  </g>
+  <g class="r" style="animation-delay:0.40s">
+    <rect x="467" y="1" width="85" height="36" rx="18" fill="#0A1628" stroke="#1E293B" stroke-width="1.5"/>
+    <circle cx="483" cy="19.0" r="3" fill="#60A5FA"/>
+    <text x="493" y="24.0">Scrum</text>
+  </g>
+  <g class="r" style="animation-delay:0.48s">
+    <rect x="562" y="1" width="94" height="36" rx="18" fill="#0A1628" stroke="#1E293B" stroke-width="1.5"/>
+    <circle cx="578" cy="19.0" r="3" fill="#34D399"/>
+    <text x="588" y="24.0">Kanban</text>
+  </g>
+</svg>

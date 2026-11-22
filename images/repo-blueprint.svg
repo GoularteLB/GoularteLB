@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 112" width="900" height="112" role="img" aria-label="Repository Blueprint: Ingesting 5-million-row CSVs with Spring Boot and PostgreSQL.">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34D399"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="hl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E76F00" stop-opacity=".10"/><stop offset=".45" stop-color="#E76F00" stop-opacity="0"/></linearGradient>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',Inter,'Helvetica Neue',Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,'Cascadia Code','SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace}
+    .rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+    @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}@media (prefers-reduced-motion:reduce){*{animation:none!important}.anim{display:none}}</style>
+  <rect x="1" y="1" width="898" height="110" rx="16" fill="#0A1628" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="1" y="1" width="898" height="110" rx="16" fill="url(#hl)"/>
+  <g class="rise">
+    <rect x="26" y="30" width="52" height="52" rx="14" fill="#050B1A" stroke="#E76F00" stroke-opacity=".7" stroke-width="1.5"/>
+    <text class="mono" x="52" y="62" font-size="17" font-weight="700" fill="#E76F00" text-anchor="middle">Jv</text>
+    <text class="mono" x="100" y="45" font-size="19" font-weight="700" fill="#F8FAFC">Blueprint<tspan fill="#64748B" font-weight="400" font-size="15">  ↗</tspan></text>
+    <text class="sans" x="100" y="70" font-size="14.5" fill="#94A3B8">Ingesting 5-million-row CSVs with Spring Boot and PostgreSQL.</text>
+    <circle cx="105" cy="89" r="5" fill="#E76F00"/>
+    <text class="mono" x="116" y="93" font-size="12" fill="#CBD5E1">Java<tspan fill="#64748B">  ·  Spring Boot  ·  PostgreSQL  ·  performance</tspan></text>
+  </g>
+  <line x1="628" y1="22" x2="628" y2="90" stroke="#1E293B"/>
+  <g transform="translate(650 26)">
+      <text class="mono" x="0" y="14" font-size="11.5" fill="#64748B">COPY › postgres</text>
+      <text class="mono" x="228" y="14" font-size="14" font-weight="700" fill="#22D3EE" text-anchor="end" opacity="0">0 rows<animate attributeName="opacity" values="1;0" keyTimes="0;0.18" calcMode="discrete" dur="5s" repeatCount="indefinite"/></text>
+      <text class="mono" x="228" y="14" font-size="14" font-weight="700" fill="#22D3EE" text-anchor="end" opacity="0">1.2M rows<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.18;0.36" calcMode="discrete" dur="5s" repeatCount="indefinite"/></text>
+      <text class="mono" x="228" y="14" font-size="14" font-weight="700" fill="#22D3EE" text-anchor="end" opacity="0">2.5M rows<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.36;0.54" calcMode="discrete" dur="5s" repeatCount="indefinite"/></text>
+      <text class="mono" x="228" y="14" font-size="14" font-weight="700" fill="#22D3EE" text-anchor="end" opacity="0">3.7M rows<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.54;0.72" calcMode="discrete" dur="5s" repeatCount="indefinite"/></text>
+      <text class="mono" x="228" y="14" font-size="14" font-weight="700" fill="#34D399" text-anchor="end" opacity="1">5.0M rows<animate attributeName="opacity" values="0;1" keyTimes="0;0.72" calcMode="discrete" dur="5s" repeatCount="indefinite"/></text>
+      <rect x="0" y="28" width="228" height="8" rx="4" fill="#13223A"/>
+      <rect x="0" y="28" width="228" height="8" rx="4" fill="url(#g)">
+        <animate attributeName="width" values="0;228;228" keyTimes="0;.72;1" dur="5s" repeatCount="indefinite"/>
+      </rect>
+      <text class="mono" x="0" y="56" font-size="10.5" fill="#3B4A63">batch · stream · no OOM</text>
+  </g>
+</svg>
